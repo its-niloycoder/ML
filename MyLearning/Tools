@@ -1,0 +1,21 @@
+I need to side how those tools work (actualy i can't controle me to get deeper on tools working
+so at list makeing it in another context to separate from matchin leanring. how matchin learning works?
+and how those build tools works is not same.)
+
+I need to focuse on solutions, not on problems
+
+python is not the only language of coding for ML. that can be done with any genral purpues language but python is
+use for the easy interface but most of the time actual things are made with popular but efficent languages like c, cpp
+and a binding in python. so we feel that we are in full python. 
+
+not all things in python is for ML. but some things are related to ml and more are dedicated to ml
+
+like data related things. like numpy is not only for ML. but widely used in ML. same as pandas and other librearyes
+
+but there is also a lot of dedicated things in python, that can do same things.
+with different optimizations (no't to focuse on optimization on initial)
+
+sykitlearn, pytourch, tensetflow is dedicated to matchin learning, we have more high lavel abstruct things like karacs
+which is backend agnostic and platform indepedent API that use those libreary to work done
+
+So, what to choice depends on setuations (!Why more is less paradox)
